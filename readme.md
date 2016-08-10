@@ -1,1 +1,1 @@
-This is a sample version 1.0
+This is a sample version 2.0
